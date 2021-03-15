@@ -1,0 +1,16 @@
+body {
+  min-height: 2000px;
+}
+.navbar-brand {
+  font-family: "pacifico";
+}
+
+.jumbotron {
+  padding-top: 4px;
+  background-color: #9fc3fc;
+  font-family: sans-serif;
+}
+
+#project {
+  background-color: #9fc3fc;
+}
